@@ -14,4 +14,4 @@
 В терминале выполните команду:
 
 ```bash
-python -m unittest test_circle.py -v
+py -m unittest test_circle.py -v
