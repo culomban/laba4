@@ -36,3 +36,6 @@ class CircleTestCase(unittest.TestCase):
     def test_perimeter_3(self):
         res = perimeter(3)
         self.assertAlmostEqual(res, 6 * math.pi)
+
+if __name__ == '__main__':
+    unittest.main()
